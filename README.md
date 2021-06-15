@@ -6,7 +6,7 @@
    - Awesome; please credit us visibly and link to our github / website / discord. 
   Please do share the source ( CAD / source-code / similar ) but remove any of our parts - however, feel free to link to any referenced file!
 
- - You want to use our files to make edited versions of it to then sell them? 
+ - You want to use our files to make edited versions of our designs and then sell them? 
 	 - You are not allowed to do that.
 
  - You want to make stuff for our printers (beds, machined parts, 3D Printed Parts Kits, etc) and sell them? 
