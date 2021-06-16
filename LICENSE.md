@@ -10,7 +10,7 @@
 	 - You are not allowed to do that.
 
  - You want to make stuff for our printers (beds, machined parts, 3D Printed Parts Kits, etc) and sell them? 
-   - Cool; while we can't stop you from doing that without our assistance, we would greatly prefer that you work directly with us & contact us via Discord. We may even be able to add you to the sourcing guide and give you a vendor channel on Discord.
+   - Cool; As our things are non-commercial you are not allowed to do this, but we would offer that you work directly with us & contact us via Discord. We may even be able to add you to the sourcing guide and give you a vendor channel on Discord.
 
  - Want to fork or mod our stuff?
 	 - Cool; All Forks, Modifications, Redistributions, etc must include a copy of this license.
