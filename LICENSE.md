@@ -11,7 +11,7 @@
 
  - You want to make stuff for our printers (beds, machined parts, etc) and sell them? 
    - Cool; while we can't stop you from doing that, this license states that our parts are for non-commerical use without prior approval, we would greatly prefer that you work directly with us & contact us via Discord. We may even be able to add you to the sourcing guide and give you a vendor channel on Discord.
-   = On the subject of printed parts kits, we would greatly prefer that sourcing be done via an ANNEX represenative (the US store, TLM print, etc), this helps keep the quality high and hopefully reduces the "race to the bottom" of both price and quality that other groups have seen. These parts kits help fund future development work. If you want to help future development, use an Ali link, or buy a printed parts kit from one of the stores. Development isnt free.
+   - On the subject of printed parts kits, we would greatly prefer that sourcing be done via an ANNEX represenative (the US store, TLM print, etc), this helps keep the quality high and hopefully reduces the "race to the bottom" of both price and quality that other groups have seen. These parts kits help fund future development work. If you want to help future development, use an Ali link, or buy a printed parts kit from one of the stores. Development isnt free.
 
  - Want to fork or mod our stuff?
 	 - Cool; All Forks, Modifications, Redistributions, etc must include a copy of this license.
