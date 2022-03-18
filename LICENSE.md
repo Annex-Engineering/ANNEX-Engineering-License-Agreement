@@ -9,8 +9,9 @@
  - You want to use our files to make edited versions of our designs and then sell them? 
 	 - You are not allowed to do that.
 
- - You want to make stuff for our printers (beds, machined parts, 3D Printed Parts Kits, etc) and sell them? 
-   - Cool; while we can't stop you from doing that without our assistance, we would greatly prefer that you work directly with us & contact us via Discord. We may even be able to add you to the sourcing guide and give you a vendor channel on Discord.
+ - You want to make stuff for our printers (beds, machined parts, etc) and sell them? 
+   - Cool; while we can't stop you from doing that, this license states that our parts are for non-commerical use without prior approval, we would greatly prefer that you work directly with us & contact us via Discord. We may even be able to add you to the sourcing guide and give you a vendor channel on Discord.
+   = On the subject of printed parts kits, we would greatly prefer that sourcing be done via an ANNEX represenative (the US store, TLM print, etc), this helps keep the quality high and hopefully reduces the "race to the bottom" of both price and quality that other groups have seen. These parts kits help fund future development work. If you want to help future development, use an Ali link, or buy a printed parts kit from one of the stores. Development isnt free.
 
  - Want to fork or mod our stuff?
 	 - Cool; All Forks, Modifications, Redistributions, etc must include a copy of this license.
@@ -60,7 +61,7 @@ NON-COMMERCIAL USE. Licensor hereby grants to Licensee one (1) non-exclusive, no
 
  - ATTRIBUTION. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
- - NON-COMMERCIAL. You may not use the material for commercial purposes. You should not sell the product (in parts or as a whole), make a profit, etc without a written or verbal approval between you (the "Licensee") and ANNEX Engineering. (the "Licensor").
+ - NON-COMMERCIAL. You may not use the material for commercial purposes without prior approval from an ANNEX represenative. You should not sell the product (in parts or as a whole), make a profit, etc without a written or verbal approval between you (the "Licensee") and ANNEX Engineering. (the "Licensor").
 
  - ELECTRICAL AND MAINS WIRING SAFETY. Documentation is provided to you (the "Licensee") from ANNEX Engineering. (the "Licensor"). These should be considered guidelines and do not come with a warranty (subsection 2). This product is not CE or UL tested or approved. It is up to the end user to safely build their product. ANNEX Engineering is not responsible for damage caused by the usage or assembly of this product to personal/commercial/business property or life.
 
