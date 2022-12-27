@@ -47,8 +47,6 @@ NON-COMMERCIAL USE. Licensor hereby grants to Licensee one (1) non-exclusive, no
 
  - FEEDBACK. Licensee may communicate to Licensor, whether or not at Licensor’s request, suggestions and comments regarding the Software and Hardware, including without limitation, performance, user interface, experiment results, and errors (collectively, “Feedback”). Licensor shall have worldwide, non-exclusive, perpetual, irrevocable, royalty-free, fully-paid up rights to use such Feedback. Without limiting the generality of the foregoing, Licensor shall have the unencumbered right to make, use, copy, modify, sell, distribute, sub-license, and create derivative works of/incorporating the Feedback as part of any product, technology, service, specification or other documentation and to publicly perform or display, import, broadcast, transmit, distribute, license, offer to sell, and sell, rent, lease or lend anonymized copies of the Feedback (and derivative works thereof) as part of any product.
 
-- TERMINATION. Licensor reserves the right to terminate this Agreement immediately and without notice in the event Licensee fails to comply with any provision of this Agreement. On termination of this Agreement, whether by reason of expiry or otherwise, Licensee shall promptly discontinue use of the Software and Hardware, destroy its installation of the Software and Hardware and, at Licensor's request, return the Software and Hardware to Licensor at no cost to Licensor. Licensor may exercise any or or more of the remedies available to it under the terms of this Agreement, in addition to any remedy available at law. Failure of Licensor to enforce a right under this Agreement shall not act as a waiver of that right.
-
  - GOVERNING LAW. This Agreement is made in The United States of America and governed by and construed in accordance with the laws of the North Carolina and the federal laws of the USA applicable therein. The Parties attorn to the exclusive jurisdiction of the Courts of the United States of America.
 
  - SEVERABILITY. If any term, covenant, condition or provision of this Agreement is held by a court of competent jurisdiction to be invalid, void or unenforceable, it is the Parties' intent that such provision be reduced in scope by the court only to the extent deemed necessary by that court to render the provision reasonable and enforceable and the remainder of the provisions of this Agreement will in no way be affected, impaired or invalidated as a result.
@@ -65,5 +63,5 @@ NON-COMMERCIAL USE. Licensor hereby grants to Licensee one (1) non-exclusive, no
 
  - ELECTRICAL AND MAINS WIRING SAFETY. Documentation is provided to you (the "Licensee") from ANNEX Engineering. (the "Licensor"). These should be considered guidelines and do not come with a warranty (subsection 2). This product is not CE or UL tested or approved. It is up to the end user to safely build their product. ANNEX Engineering is not responsible for damage caused by the usage or assembly of this product to personal/commercial/business property or life.
 
-
+ - Build Cool Things.
 
